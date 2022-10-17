@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://dai-dost.github.io/csb-vh8uz9/static/css/main.f29ae65a.chunk.css",
-    "main.js": "https://dai-dost.github.io/csb-vh8uz9/static/js/main.fc7b3cb5.chunk.js",
-    "main.js.map": "https://dai-dost.github.io/csb-vh8uz9/static/js/main.fc7b3cb5.chunk.js.map",
+    "main.js": "https://dai-dost.github.io/csb-vh8uz9/static/js/main.a9e2ea06.chunk.js",
+    "main.js.map": "https://dai-dost.github.io/csb-vh8uz9/static/js/main.a9e2ea06.chunk.js.map",
     "runtime-main.js": "https://dai-dost.github.io/csb-vh8uz9/static/js/runtime-main.4de66f6d.js",
     "runtime-main.js.map": "https://dai-dost.github.io/csb-vh8uz9/static/js/runtime-main.4de66f6d.js.map",
     "static/js/2.6d849711.chunk.js": "https://dai-dost.github.io/csb-vh8uz9/static/js/2.6d849711.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.4de66f6d.js",
     "static/js/2.6d849711.chunk.js",
     "static/css/main.f29ae65a.chunk.css",
-    "static/js/main.fc7b3cb5.chunk.js"
+    "static/js/main.a9e2ea06.chunk.js"
   ]
 }
